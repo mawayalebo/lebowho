@@ -17,6 +17,9 @@ function Profile() {
                     and Commerical High School where I did my Grade 8 up to 12 and Majored in Mechanical Technology. I did my tertiary education at Vaal University of Technelogy where i majored in Business Analysis & Information Systems.
                     I found my passion in Software Development, therefore i self taught myself to code in Javascript and I am currently doing freelancing work.
                 </p>
+                <p>
+                    I am someone who is always looking for new challenges and opportunities to learn new things. I am a hard worker and a team player. I am a person who is always ready to learn new things.
+                </p>
             
             </div>
         </section>
